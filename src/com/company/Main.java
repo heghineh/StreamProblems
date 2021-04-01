@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Main {
-//a-ով և b-ով սկսվողները ֆիլտրել և դարձնել մեծատառ
+//a-ով և b-ով սկսվողները ֆիլտրել, դարձնել մեծատառ և սորտավորել
     public static void main(String[] args) {
         ArrayList<String> strings = new ArrayList<>();
         strings.add("sffaf");
